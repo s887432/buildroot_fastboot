@@ -1,7 +1,7 @@
 # buildroot_fastboot
 How to build:
 ----------------------------------------
-$ git clone https://github.com/linux4sam/buildroot-at91.git
+$ git clone https://github.com/linux4sam/buildroot-at91.git<br>
 $ git clone https://github.com/linux4sam/buildroot-external-microchip.git
 $ cd buildroot-external-microchip/
 $ git checkout linux4sam-2021.04
