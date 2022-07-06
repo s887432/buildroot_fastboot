@@ -47,7 +47,7 @@ How to execute motorcycledash app:<br>
 ----------------------------------------<br>
 Welcome to the Microchip Demo<br>
 sam9x60ek login: root<br>
-# /root/motorcycledash<br>
+## /root/motorcycledash<br>
 
 How to enable fastboot:<br>
 ----------------------------------------<br>
